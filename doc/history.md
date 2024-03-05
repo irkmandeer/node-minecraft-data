@@ -1,5 +1,17 @@
 # History
 
+## 3.62.0
+
+* update `minecraft-data`
+
+## 3.61.2
+
+* update `minecraft-data`
+
+## 3.61.1
+
+* update `minecraft-data`
+
 ## 3.61.0
 
 * update `minecraft-data`
